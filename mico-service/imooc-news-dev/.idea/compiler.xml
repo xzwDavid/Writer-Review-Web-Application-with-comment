@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imooc-news-dev-service-user" />
+        <module name="imooc-news-dev-service-article" />
+        <module name="mybatis-generator-database" />
+        <module name="imooc-news-dev-service-api" />
+        <module name="springcloud-config" />
+        <module name="imooc-news-dev-service-files" />
+        <module name="imooc-news-dev-common" />
+        <module name="imooc-news-dev-service-article-html" />
+        <module name="imooc-news-dev-model" />
+        <module name="springcloud-eureka" />
+        <module name="springcloud-eureka-cluster" />
+        <module name="springcloud-zuul-server" />
+        <module name="imooc-news-dev-service-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="imooc-news-dev-common" options="" />
+      <module name="imooc-news-dev-model" options="" />
+      <module name="imooc-news-dev-service-admin" options="" />
+      <module name="imooc-news-dev-service-api" options="" />
+      <module name="imooc-news-dev-service-article" options="" />
+      <module name="imooc-news-dev-service-article-html" options="" />
+      <module name="imooc-news-dev-service-files" options="" />
+      <module name="imooc-news-dev-service-user" options="" />
+      <module name="mybatis-generator-database" options="" />
+      <module name="springcloud-config" options="" />
+      <module name="springcloud-eureka" options="" />
+      <module name="springcloud-eureka-cluster" options="" />
+      <module name="springcloud-zuul" options="-parameters" />
+      <module name="springcloud-zuul-server" options="" />
+    </option>
+  </component>
+</project>

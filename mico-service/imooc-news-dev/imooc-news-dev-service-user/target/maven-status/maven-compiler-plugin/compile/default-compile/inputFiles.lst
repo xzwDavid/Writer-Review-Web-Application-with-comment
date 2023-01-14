@@ -1,0 +1,17 @@
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/impl/AppUserMngServiceImpl.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/controller/MyFansController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/AppUserMngService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/stream/MyStreamChannel.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/controller/HelloController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/mapper/FansMapper.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/MyFanService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/Application.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/mapper/AppUserMapperCustom.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/controller/AppUserMngController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/UserService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/controller/PassportController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/impl/MyFanServiceImpl.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/controller/UserController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/stream/MyStreamConsumer.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/mapper/AppUserMapper.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-user/src/main/java/com/imooc/user/service/impl/UserServiceImpl.java

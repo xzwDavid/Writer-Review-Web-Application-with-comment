@@ -1,0 +1,4 @@
+com/imooc/zuul/controller/HelloController.class
+com/imooc/zuul/filters/MyFilter.class
+com/imooc/zuul/filters/BlackIPFilter.class
+com/imooc/zuul/Application.class

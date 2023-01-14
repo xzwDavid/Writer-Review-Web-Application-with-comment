@@ -1,0 +1,6 @@
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/Application.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/controller/ArticleHTMLComponent.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/GridFSConfig.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/RabbitMQConsumer.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/controller/HelloController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-article-html/src/main/java/com/imooc/article/html/controller/ArticleHTMLController.java

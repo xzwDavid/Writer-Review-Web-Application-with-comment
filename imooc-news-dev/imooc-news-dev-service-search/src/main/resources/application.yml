@@ -1,0 +1,20 @@
+############################################################
+#
+# 搜索服务
+# web访问端口号  约定：8006
+#
+############################################################
+server:
+  port: 8006
+  tomcat:
+    uri-encoding: UTF-8
+
+spring:
+  application:
+    name: service-search
+  data:
+    elasticsearch:
+      cluster-name: imooc-elasticsaerch
+      cluster-nodes: 172.20.10.9:9300
+
+

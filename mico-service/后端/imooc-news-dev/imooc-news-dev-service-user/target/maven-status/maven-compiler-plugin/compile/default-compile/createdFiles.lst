@@ -1,0 +1,15 @@
+com/imooc/user/service/impl/UserServiceImpl.class
+com/imooc/user/mapper/FansMapper.class
+com/imooc/user/controller/HelloController.class
+com/imooc/user/service/MyFanService.class
+com/imooc/user/controller/MyFansController.class
+com/imooc/user/service/UserService.class
+com/imooc/user/controller/PassportController.class
+com/imooc/user/controller/AppUserMngController.class
+com/imooc/user/service/impl/MyFanServiceImpl.class
+com/imooc/user/Application.class
+com/imooc/user/controller/UserController.class
+com/imooc/user/service/impl/AppUserMngServiceImpl.class
+com/imooc/user/mapper/AppUserMapper.class
+com/imooc/user/service/AppUserMngService.class
+com/imooc/user/mapper/AppUserMapperCustom.class

@@ -1,0 +1,15 @@
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/mapper/AdminUserMapper.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/Application.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/controller/HelloController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/impl/AdminUserServiceImpl.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/controller/CategoryMngController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/repository/FriendLinkRepository.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/controller/FriendLinkController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/CategoryService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/FriendLinkService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/impl/FriendLinkServiceImpl.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/mapper/CategoryMapper.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/controller/AdminMngController.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/AdminUserService.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/controller/PWDTest.java
+/workspaces/idea_imc/imooc-news-dev/imooc-news-dev-service-admin/src/main/java/com/imooc/admin/service/impl/CategoryServiceImpl.java
